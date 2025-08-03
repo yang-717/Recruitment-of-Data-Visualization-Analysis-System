@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.example.mapper.JobDataMapper">
+
+    <sql id="Base_Column_List">
+        id, type, title, company_title, min_salary, max_salary, work_experience, education, total_tag, company_people, work_tag, welfare, img_src, city
+    </sql>
+
+    <!--    城市平均薪资top10-->
+    <select id="getTop10AverageSalaries" resultType="com.example.entity.JobData">
+        select city, avg(min_salary + max_salary) as average_salary
+        from job_data
+        group by city
+        order by average_salary desc
+        limit 10
+    </select>
+    <!--    工资区间计数-->
+    <select id="getSalaryCategoryCount" resultType="com.example.entity.JobData">
+        select
+            case
+                when (min_salary + max_salary) / 2 between 0 and 5000 then '0-5k'
+                when (min_salary + max_salary) / 2 between 5000 and 7000 then '5k-7k'
+                when (min_salary + max_salary) / 2 between 7000 and 10000 then '7k-10k'
+                when (min_salary + max_salary) / 2 between 10000 and 20000 then '10k-20k'
+                else '20k以上'
+            end as salary_category,
+            count(*) as count
+        from job_data
+        group by salary_category
+        order by count desc
+    </select>
+
+    <!--    工作经验分析-->
+    <select id="getExperienceAnalysis" resultType="com.example.entity.JobData">
+        select
+            work_experience,
+            AVG(max_salary) AS avg_max_salary,
+            AVG(min_salary) AS avg_min_salary
+        from
+            job_data
+        group by
+            work_experience
+        order by
+            avg_max_salary DESC
+    </select>
+    <!--    城市岗位统计-->
+    <select id="getCityJobCount" resultType="com.example.entity.JobData">
+        select city, count(*) as job_count
+        from job_data
+        group by city
+        order by job_count desc
+    </select>
+    <!--    大屏分析（公司人数区间）-->
+    <select id="getCompanyPeopleCategoryCount" resultType="com.example.entity.JobData">
+        select
+            case
+                when company_people between 0 and 10 then '0-10人'
+                when company_people between 11 and 50 then '10-50人'
+                when company_people between 51 and 150 then '50-150人'
+                when company_people between 151 and 500 then '150-500人'
+                when company_people between 501 and 1000 then '500-1000人'
+                else '1000人以上'
+                end as people_category,
+            count(*) as job_count
+        from job_data
+        group by people_category
+        order by job_count desc
+    </select>
+    <!--    *****最高薪资top薪资-->
+    <select id="getTopSalary" resultType="com.example.entity.JobData">
+        select *
+        from job_data
+        order by max_salary desc
+        limit 10
+    </select>
+    <!--    行业薪资区间-->
+    <select id="getIndustrySalaryCategoryCount" resultType="com.example.entity.JobData">
+        select
+            type,
+            case
+                when (min_salary + max_salary) / 2 between 0 and 5000 then '0-5000'
+                when (min_salary + max_salary) / 2 between 5000 and 7000 then '5000-7000'
+                when (min_salary + max_salary) / 2 between 7000 and 10000 then '7000-10000'
+                when (min_salary + max_salary) / 2 between 10000 and 20000 then '10000-20000'
+                else '200000以上'
+                end as salary_category,
+            count(*) as job_count
+        from job_data
+        group by type, salary_category
+        order by type, job_count desc
+    </select>
+    <!--    行业平均薪资-->
+    <select id="getIndustryAverageSalary" resultType="com.example.entity.JobData">
+        select type, avg(min_salary + max_salary) / 2 as average_salary
+        from job_data
+        group by type
+        order by average_salary desc
+    </select>
+    <!--    不同经验情况下每个平均薪资的个数-->
+    <select id="getExperienceSalaryCount" resultType="com.example.entity.JobData">
+        select work_experience,
+               avg(min_salary + max_salary) / 2 as average_salary,
+               count(*) as experience_count
+        from job_data
+        group by work_experience
+        order by average_salary desc
+    </select>
+    <!--    学历统计-->
+    <select id="getEducationCount" resultType="com.example.entity.JobData">
+        select education, count(*) as job_count
+        from job_data
+        group by education
+        order by job_count desc
+    </select>
+    <!--    行业个数统计-->
+    <select id="getIndustryCount" resultType="com.example.entity.JobData">
+        select type, count(*) as job_count
+        from job_data
+        group by type
+        order by job_count desc
+    </select>
+    <!--    各工作类型最大薪资-->
+    <select id="getJobTypeMaxSalary" resultType="com.example.entity.JobData">
+        select type, max(max_salary) as max_salary
+        from job_data
+        group by type
+        order by max_salary desc
+    </select>
+    <!--    各城市薪资情况-->
+    <select id="getCitySalaryCategoryCount" resultType="com.example.entity.JobData">
+        select
+            city,
+            case
+                when (min_salary + max_salary) / 2 between 0 and 5000 then '0-5000'
+                when (min_salary + max_salary) / 2 between 5000 and 7000 then '5000-7000'
+                when (min_salary + max_salary) / 2 between 7000 and 10000 then '7000-10000'
+                when (min_salary + max_salary) / 2 between 10000 and 20000 then '10000-20000'
+                else '200000以上'
+                end as salary_category,
+            count(*) as job_count
+        from job_data
+        group by city, salary_category
+        order by city, job_count desc
+    </select>
+    <!--    城市分析（公司人数区间）-->
+        <select id="getCompanyPeopleCategory" resultType="com.example.entity.JobData">
+            select
+                city,
+                case
+                    when company_people between 1 and 50 then '1-50人'
+                    when company_people between 51 and 200 then '51-200人'
+                    when company_people between 201 and 500 then '201-500人'
+                    when company_people between 501 and 1000 then '501-1000人'
+                    else '1000人以上'
+                    end as people_category,
+                count(*) as job_count
+            from job_data
+            group by city, people_category
+            order by job_count desc
+        </select>
+    <!--    获取所有城市 -->
+    <select id="getAllCities" resultType="String">
+        select distinct city from job_data where city is not null
+    </select>
+    <!--    获取所有工作类型 -->
+    <select id="getAllTypes" resultType="String">
+        select distinct type from job_data where type is not null
+    </select>
+
+    <select id="selectAll" resultType="com.example.entity.JobData">
+        select
+        <include refid="Base_Column_List" />
+        from job_data
+        <where>
+            <if test="id != null"> and id = #{id}</if>
+            <if test="type != null"> and type like concat('%', #{type}, '%')</if>
+            <if test="title != null"> and title like concat('%', #{title}, '%')</if>
+            <if test="companyTitle != null"> and company_title like concat('%', #{companyTitle}, '%')</if>
+            <if test="minSalary != null"> and min_salary = #{minSalary}</if>
+            <if test="maxSalary != null"> and max_salary = #{maxSalary}</if>
+            <if test="workExperience != null"> and work_experience like concat('%', #{workExperience}, '%')</if>
+            <if test="education != null"> and education like concat('%', #{education}, '%')</if>
+            <if test="totalTag != null"> and total_tag like concat('%', #{totalTag}, '%')</if>
+            <if test="companyPeople != null"> and company_people like concat('%', #{companyPeople}, '%')</if>
+            <if test="workTag != null"> and work_tag like concat('%', #{workTag}, '%')</if>
+            <if test="welfare != null"> and welfare like concat('%', #{welfare}, '%')</if>
+            <if test="imgSrc != null"> and img_src like concat('%', #{imgSrc}, '%')</if>
+            <if test="city != null"> and city like concat('%', #{city}, '%')</if>
+        </where>
+        order by id desc
+    </select>
+
+    <select id="selectById" resultType="com.example.entity.JobData">
+        select
+        <include refid="Base_Column_List" />
+        from job_data
+        where id = #{id}
+    </select>
+
+    <delete id="deleteById">
+        delete from job_data
+        where id = #{id}
+    </delete>
+
+    <insert id="insert" parameterType="com.example.entity.JobData" useGeneratedKeys="true" keyProperty="id">
+        insert into job_data
+        <trim prefix="(" suffix=")" suffixOverrides=",">
+            <if test="type != null">type,</if>
+            <if test="title != null">title,</if>
+            <if test="companyTitle != null">company_title,</if>
+            <if test="minSalary != null">min_salary,</if>
+            <if test="maxSalary != null">max_salary,</if>
+            <if test="workExperience != null">work_experience,</if>
+            <if test="education != null">education,</if>
+            <if test="totalTag != null">total_tag,</if>
+            <if test="companyPeople != null">company_people,</if>
+            <if test="workTag != null">work_tag,</if>
+            <if test="welfare != null">welfare,</if>
+            <if test="imgSrc != null">img_src,</if>
+            <if test="city != null">city,</if>
+        </trim>
+        <trim prefix="values (" suffix=")" suffixOverrides=",">
+            <if test="type != null">#{type},</if>
+            <if test="title != null">#{title},</if>
+            <if test="companyTitle != null">#{companyTitle},</if>
+            <if test="minSalary != null">#{minSalary},</if>
+            <if test="maxSalary != null">#{maxSalary},</if>
+            <if test="workExperience != null">#{workExperience},</if>
+            <if test="education != null">#{education},</if>
+            <if test="totalTag != null">#{totalTag},</if>
+            <if test="companyPeople != null">#{companyPeople},</if>
+            <if test="workTag != null">#{workTag},</if>
+            <if test="welfare != null">#{welfare},</if>
+            <if test="imgSrc != null">#{imgSrc},</if>
+            <if test="city != null">#{city},</if>
+        </trim>
+    </insert>
+
+    <update id="updateById" parameterType="com.example.entity.JobData">
+        update job_data
+        <set>
+            <if test="type != null">type = #{type},</if>
+            <if test="title != null">title = #{title},</if>
+            <if test="companyTitle != null">company_title = #{companyTitle},</if>
+            <if test="minSalary != null">min_salary = #{minSalary},</if>
+            <if test="maxSalary != null">max_salary = #{maxSalary},</if>
+            <if test="workExperience != null">work_experience = #{workExperience},</if>
+            <if test="education != null">education = #{education},</if>
+            <if test="totalTag != null">total_tag = #{totalTag},</if>
+            <if test="companyPeople != null">company_people = #{companyPeople},</if>
+            <if test="workTag != null">work_tag = #{workTag},</if>
+            <if test="welfare != null">welfare = #{welfare},</if>
+            <if test="imgSrc != null">img_src = #{imgSrc},</if>
+            <if test="city != null">city = #{city},</if>
+        </set>
+        where id = #{id}
+    </update>
+
+</mapper>

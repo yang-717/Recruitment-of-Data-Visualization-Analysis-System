@@ -1,0 +1,3906 @@
+[
+  {
+    "source": "北京",
+    "target": "天津"
+  },
+  {
+    "source": "北京",
+    "target": "保定"
+  },
+  {
+    "source": "北京",
+    "target": "张家口"
+  },
+  {
+    "source": "北京",
+    "target": "承德"
+  },
+  {
+    "source": "北京",
+    "target": "廊坊"
+  },
+  {
+    "source": "天津",
+    "target": "唐山"
+  },
+  {
+    "source": "天津",
+    "target": "邯郸"
+  },
+  {
+    "source": "天津",
+    "target": "承德"
+  },
+  {
+    "source": "天津",
+    "target": "沧州"
+  },
+  {
+    "source": "天津",
+    "target": "廊坊"
+  },
+  {
+    "source": "石家庄",
+    "target": "邢台"
+  },
+  {
+    "source": "石家庄",
+    "target": "保定"
+  },
+  {
+    "source": "石家庄",
+    "target": "衡水"
+  },
+  {
+    "source": "石家庄",
+    "target": "阳泉"
+  },
+  {
+    "source": "石家庄",
+    "target": "晋中"
+  },
+  {
+    "source": "石家庄",
+    "target": "忻州"
+  },
+  {
+    "source": "唐山",
+    "target": "秦皇岛"
+  },
+  {
+    "source": "唐山",
+    "target": "承德"
+  },
+  {
+    "source": "秦皇岛",
+    "target": "承德"
+  },
+  {
+    "source": "秦皇岛",
+    "target": "朝阳"
+  },
+  {
+    "source": "秦皇岛",
+    "target": "葫芦岛"
+  },
+  {
+    "source": "邯郸",
+    "target": "邢台"
+  },
+  {
+    "source": "邯郸",
+    "target": "长治"
+  },
+  {
+    "source": "邯郸",
+    "target": "晋中"
+  },
+  {
+    "source": "邯郸",
+    "target": "聊城"
+  },
+  {
+    "source": "邯郸",
+    "target": "安阳"
+  },
+  {
+    "source": "邯郸",
+    "target": "濮阳"
+  },
+  {
+    "source": "邢台",
+    "target": "衡水"
+  },
+  {
+    "source": "邢台",
+    "target": "晋中"
+  },
+  {
+    "source": "邢台",
+    "target": "德州"
+  },
+  {
+    "source": "邢台",
+    "target": "聊城"
+  },
+  {
+    "source": "保定",
+    "target": "张家口"
+  },
+  {
+    "source": "保定",
+    "target": "沧州"
+  },
+  {
+    "source": "保定",
+    "target": "廊坊"
+  },
+  {
+    "source": "保定",
+    "target": "衡水"
+  },
+  {
+    "source": "保定",
+    "target": "大同"
+  },
+  {
+    "source": "保定",
+    "target": "忻州"
+  },
+  {
+    "source": "张家口",
+    "target": "承德"
+  },
+  {
+    "source": "张家口",
+    "target": "大同"
+  },
+  {
+    "source": "张家口",
+    "target": "乌兰察布"
+  },
+  {
+    "source": "张家口",
+    "target": "锡林郭勒盟"
+  },
+  {
+    "source": "承德",
+    "target": "赤峰"
+  },
+  {
+    "source": "承德",
+    "target": "锡林郭勒盟"
+  },
+  {
+    "source": "承德",
+    "target": "朝阳"
+  },
+  {
+    "source": "沧州",
+    "target": "廊坊"
+  },
+  {
+    "source": "沧州",
+    "target": "衡水"
+  },
+  {
+    "source": "沧州",
+    "target": "德州"
+  },
+  {
+    "source": "沧州",
+    "target": "滨州"
+  },
+  {
+    "source": "衡水",
+    "target": "德州"
+  },
+  {
+    "source": "太原",
+    "target": "阳泉"
+  },
+  {
+    "source": "太原",
+    "target": "晋中"
+  },
+  {
+    "source": "太原",
+    "target": "忻州"
+  },
+  {
+    "source": "太原",
+    "target": "吕梁"
+  },
+  {
+    "source": "大同",
+    "target": "朔州"
+  },
+  {
+    "source": "大同",
+    "target": "忻州"
+  },
+  {
+    "source": "大同",
+    "target": "乌兰察布"
+  },
+  {
+    "source": "阳泉",
+    "target": "晋中"
+  },
+  {
+    "source": "阳泉",
+    "target": "忻州"
+  },
+  {
+    "source": "长治",
+    "target": "晋城"
+  },
+  {
+    "source": "长治",
+    "target": "晋中"
+  },
+  {
+    "source": "长治",
+    "target": "临汾"
+  },
+  {
+    "source": "长治",
+    "target": "安阳"
+  },
+  {
+    "source": "长治",
+    "target": "新乡"
+  },
+  {
+    "source": "晋城",
+    "target": "运城"
+  },
+  {
+    "source": "晋城",
+    "target": "临汾"
+  },
+  {
+    "source": "晋城",
+    "target": "新乡"
+  },
+  {
+    "source": "晋城",
+    "target": "焦作"
+  },
+  {
+    "source": "晋城",
+    "target": "济源"
+  },
+  {
+    "source": "朔州",
+    "target": "忻州"
+  },
+  {
+    "source": "朔州",
+    "target": "呼和浩特"
+  },
+  {
+    "source": "朔州",
+    "target": "乌兰察布"
+  },
+  {
+    "source": "晋中",
+    "target": "临汾"
+  },
+  {
+    "source": "晋中",
+    "target": "吕梁"
+  },
+  {
+    "source": "运城",
+    "target": "临汾"
+  },
+  {
+    "source": "运城",
+    "target": "洛阳"
+  },
+  {
+    "source": "运城",
+    "target": "三门峡"
+  },
+  {
+    "source": "运城",
+    "target": "济源"
+  },
+  {
+    "source": "运城",
+    "target": "渭南"
+  },
+  {
+    "source": "忻州",
+    "target": "吕梁"
+  },
+  {
+    "source": "忻州",
+    "target": "呼和浩特"
+  },
+  {
+    "source": "忻州",
+    "target": "鄂尔多斯"
+  },
+  {
+    "source": "忻州",
+    "target": "榆林"
+  },
+  {
+    "source": "临汾",
+    "target": "吕梁"
+  },
+  {
+    "source": "临汾",
+    "target": "渭南"
+  },
+  {
+    "source": "临汾",
+    "target": "延安"
+  },
+  {
+    "source": "吕梁",
+    "target": "延安"
+  },
+  {
+    "source": "吕梁",
+    "target": "榆林"
+  },
+  {
+    "source": "呼和浩特",
+    "target": "包头"
+  },
+  {
+    "source": "呼和浩特",
+    "target": "鄂尔多斯"
+  },
+  {
+    "source": "呼和浩特",
+    "target": "乌兰察布"
+  },
+  {
+    "source": "包头",
+    "target": "鄂尔多斯"
+  },
+  {
+    "source": "包头",
+    "target": "巴彦淖尔"
+  },
+  {
+    "source": "包头",
+    "target": "乌兰察布"
+  },
+  {
+    "source": "乌海",
+    "target": "鄂尔多斯"
+  },
+  {
+    "source": "乌海",
+    "target": "阿拉善盟"
+  },
+  {
+    "source": "乌海",
+    "target": "石嘴山"
+  },
+  {
+    "source": "赤峰",
+    "target": "通辽"
+  },
+  {
+    "source": "赤峰",
+    "target": "锡林郭勒盟"
+  },
+  {
+    "source": "赤峰",
+    "target": "朝阳"
+  },
+  {
+    "source": "通辽",
+    "target": "兴安盟"
+  },
+  {
+    "source": "通辽",
+    "target": "锡林郭勒盟"
+  },
+  {
+    "source": "通辽",
+    "target": "沈阳"
+  },
+  {
+    "source": "通辽",
+    "target": "阜新"
+  },
+  {
+    "source": "通辽",
+    "target": "铁岭"
+  },
+  {
+    "source": "通辽",
+    "target": "朝阳"
+  },
+  {
+    "source": "通辽",
+    "target": "四平"
+  },
+  {
+    "source": "通辽",
+    "target": "松原"
+  },
+  {
+    "source": "通辽",
+    "target": "白城"
+  },
+  {
+    "source": "鄂尔多斯",
+    "target": "巴彦淖尔"
+  },
+  {
+    "source": "鄂尔多斯",
+    "target": "阿拉善盟"
+  },
+  {
+    "source": "鄂尔多斯",
+    "target": "榆林"
+  },
+  {
+    "source": "鄂尔多斯",
+    "target": "银川"
+  },
+  {
+    "source": "鄂尔多斯",
+    "target": "石嘴山"
+  },
+  {
+    "source": "鄂尔多斯",
+    "target": "吴忠"
+  },
+  {
+    "source": "呼伦贝尔",
+    "target": "兴安盟"
+  },
+  {
+    "source": "呼伦贝尔",
+    "target": "齐齐哈尔"
+  },
+  {
+    "source": "呼伦贝尔",
+    "target": "黑河"
+  },
+  {
+    "source": "呼伦贝尔",
+    "target": "大兴安岭地区"
+  },
+  {
+    "source": "巴彦淖尔",
+    "target": "阿拉善盟"
+  },
+  {
+    "source": "乌兰察布",
+    "target": "锡林郭勒盟"
+  },
+  {
+    "source": "兴安盟",
+    "target": "锡林郭勒盟"
+  },
+  {
+    "source": "兴安盟",
+    "target": "白城"
+  },
+  {
+    "source": "兴安盟",
+    "target": "齐齐哈尔"
+  },
+  {
+    "source": "阿拉善盟",
+    "target": "金昌"
+  },
+  {
+    "source": "阿拉善盟",
+    "target": "白银"
+  },
+  {
+    "source": "阿拉善盟",
+    "target": "武威"
+  },
+  {
+    "source": "阿拉善盟",
+    "target": "张掖"
+  },
+  {
+    "source": "阿拉善盟",
+    "target": "酒泉"
+  },
+  {
+    "source": "阿拉善盟",
+    "target": "银川"
+  },
+  {
+    "source": "阿拉善盟",
+    "target": "石嘴山"
+  },
+  {
+    "source": "阿拉善盟",
+    "target": "吴忠"
+  },
+  {
+    "source": "阿拉善盟",
+    "target": "中卫"
+  },
+  {
+    "source": "沈阳",
+    "target": "鞍山"
+  },
+  {
+    "source": "沈阳",
+    "target": "抚顺"
+  },
+  {
+    "source": "沈阳",
+    "target": "本溪"
+  },
+  {
+    "source": "沈阳",
+    "target": "锦州"
+  },
+  {
+    "source": "沈阳",
+    "target": "阜新"
+  },
+  {
+    "source": "沈阳",
+    "target": "辽阳"
+  },
+  {
+    "source": "沈阳",
+    "target": "铁岭"
+  },
+  {
+    "source": "大连",
+    "target": "鞍山"
+  },
+  {
+    "source": "大连",
+    "target": "丹东"
+  },
+  {
+    "source": "大连",
+    "target": "营口"
+  },
+  {
+    "source": "鞍山",
+    "target": "丹东"
+  },
+  {
+    "source": "鞍山",
+    "target": "锦州"
+  },
+  {
+    "source": "鞍山",
+    "target": "营口"
+  },
+  {
+    "source": "鞍山",
+    "target": "辽阳"
+  },
+  {
+    "source": "鞍山",
+    "target": "盘锦"
+  },
+  {
+    "source": "抚顺",
+    "target": "本溪"
+  },
+  {
+    "source": "抚顺",
+    "target": "铁岭"
+  },
+  {
+    "source": "抚顺",
+    "target": "辽源"
+  },
+  {
+    "source": "抚顺",
+    "target": "通化"
+  },
+  {
+    "source": "本溪",
+    "target": "丹东"
+  },
+  {
+    "source": "本溪",
+    "target": "辽阳"
+  },
+  {
+    "source": "本溪",
+    "target": "通化"
+  },
+  {
+    "source": "丹东",
+    "target": "辽阳"
+  },
+  {
+    "source": "丹东",
+    "target": "通化"
+  },
+  {
+    "source": "锦州",
+    "target": "阜新"
+  },
+  {
+    "source": "锦州",
+    "target": "盘锦"
+  },
+  {
+    "source": "锦州",
+    "target": "朝阳"
+  },
+  {
+    "source": "锦州",
+    "target": "葫芦岛"
+  },
+  {
+    "source": "营口",
+    "target": "盘锦"
+  },
+  {
+    "source": "阜新",
+    "target": "朝阳"
+  },
+  {
+    "source": "铁岭",
+    "target": "四平"
+  },
+  {
+    "source": "铁岭",
+    "target": "辽源"
+  },
+  {
+    "source": "朝阳",
+    "target": "葫芦岛"
+  },
+  {
+    "source": "长春",
+    "target": "吉林"
+  },
+  {
+    "source": "长春",
+    "target": "四平"
+  },
+  {
+    "source": "长春",
+    "target": "松原"
+  },
+  {
+    "source": "长春",
+    "target": "哈尔滨"
+  },
+  {
+    "source": "吉林",
+    "target": "四平"
+  },
+  {
+    "source": "吉林",
+    "target": "辽源"
+  },
+  {
+    "source": "吉林",
+    "target": "通化"
+  },
+  {
+    "source": "吉林",
+    "target": "白山"
+  },
+  {
+    "source": "吉林",
+    "target": "延边朝鲜族自治州"
+  },
+  {
+    "source": "吉林",
+    "target": "哈尔滨"
+  },
+  {
+    "source": "四平",
+    "target": "辽源"
+  },
+  {
+    "source": "四平",
+    "target": "松原"
+  },
+  {
+    "source": "辽源",
+    "target": "通化"
+  },
+  {
+    "source": "通化",
+    "target": "白山"
+  },
+  {
+    "source": "白山",
+    "target": "延边朝鲜族自治州"
+  },
+  {
+    "source": "松原",
+    "target": "白城"
+  },
+  {
+    "source": "松原",
+    "target": "哈尔滨"
+  },
+  {
+    "source": "松原",
+    "target": "大庆"
+  },
+  {
+    "source": "白城",
+    "target": "齐齐哈尔"
+  },
+  {
+    "source": "白城",
+    "target": "大庆"
+  },
+  {
+    "source": "延边朝鲜族自治州",
+    "target": "哈尔滨"
+  },
+  {
+    "source": "延边朝鲜族自治州",
+    "target": "牡丹江"
+  },
+  {
+    "source": "哈尔滨",
+    "target": "大庆"
+  },
+  {
+    "source": "哈尔滨",
+    "target": "伊春"
+  },
+  {
+    "source": "哈尔滨",
+    "target": "佳木斯"
+  },
+  {
+    "source": "哈尔滨",
+    "target": "七台河"
+  },
+  {
+    "source": "哈尔滨",
+    "target": "牡丹江"
+  },
+  {
+    "source": "哈尔滨",
+    "target": "绥化"
+  },
+  {
+    "source": "齐齐哈尔",
+    "target": "大庆"
+  },
+  {
+    "source": "齐齐哈尔",
+    "target": "黑河"
+  },
+  {
+    "source": "齐齐哈尔",
+    "target": "绥化"
+  },
+  {
+    "source": "鸡西",
+    "target": "双鸭山"
+  },
+  {
+    "source": "鸡西",
+    "target": "七台河"
+  },
+  {
+    "source": "鸡西",
+    "target": "牡丹江"
+  },
+  {
+    "source": "鹤岗",
+    "target": "伊春"
+  },
+  {
+    "source": "鹤岗",
+    "target": "佳木斯"
+  },
+  {
+    "source": "双鸭山",
+    "target": "佳木斯"
+  },
+  {
+    "source": "双鸭山",
+    "target": "七台河"
+  },
+  {
+    "source": "大庆",
+    "target": "绥化"
+  },
+  {
+    "source": "伊春",
+    "target": "佳木斯"
+  },
+  {
+    "source": "伊春",
+    "target": "黑河"
+  },
+  {
+    "source": "伊春",
+    "target": "绥化"
+  },
+  {
+    "source": "佳木斯",
+    "target": "七台河"
+  },
+  {
+    "source": "七台河",
+    "target": "牡丹江"
+  },
+  {
+    "source": "黑河",
+    "target": "绥化"
+  },
+  {
+    "source": "黑河",
+    "target": "大兴安岭地区"
+  },
+  {
+    "source": "上海",
+    "target": "苏州"
+  },
+  {
+    "source": "上海",
+    "target": "南通"
+  },
+  {
+    "source": "上海",
+    "target": "嘉兴"
+  },
+  {
+    "source": "上海",
+    "target": "舟山"
+  },
+  {
+    "source": "南京",
+    "target": "常州"
+  },
+  {
+    "source": "南京",
+    "target": "扬州"
+  },
+  {
+    "source": "南京",
+    "target": "镇江"
+  },
+  {
+    "source": "南京",
+    "target": "马鞍山"
+  },
+  {
+    "source": "南京",
+    "target": "滁州"
+  },
+  {
+    "source": "南京",
+    "target": "宣城"
+  },
+  {
+    "source": "无锡",
+    "target": "常州"
+  },
+  {
+    "source": "无锡",
+    "target": "苏州"
+  },
+  {
+    "source": "无锡",
+    "target": "泰州"
+  },
+  {
+    "source": "无锡",
+    "target": "湖州"
+  },
+  {
+    "source": "无锡",
+    "target": "宣城"
+  },
+  {
+    "source": "徐州",
+    "target": "连云港"
+  },
+  {
+    "source": "徐州",
+    "target": "宿迁"
+  },
+  {
+    "source": "徐州",
+    "target": "淮北"
+  },
+  {
+    "source": "徐州",
+    "target": "宿州"
+  },
+  {
+    "source": "徐州",
+    "target": "枣庄"
+  },
+  {
+    "source": "徐州",
+    "target": "济宁"
+  },
+  {
+    "source": "徐州",
+    "target": "临沂"
+  },
+  {
+    "source": "徐州",
+    "target": "菏泽"
+  },
+  {
+    "source": "常州",
+    "target": "镇江"
+  },
+  {
+    "source": "常州",
+    "target": "泰州"
+  },
+  {
+    "source": "常州",
+    "target": "宣城"
+  },
+  {
+    "source": "苏州",
+    "target": "南通"
+  },
+  {
+    "source": "苏州",
+    "target": "泰州"
+  },
+  {
+    "source": "苏州",
+    "target": "嘉兴"
+  },
+  {
+    "source": "苏州",
+    "target": "湖州"
+  },
+  {
+    "source": "南通",
+    "target": "盐城"
+  },
+  {
+    "source": "南通",
+    "target": "泰州"
+  },
+  {
+    "source": "连云港",
+    "target": "淮安"
+  },
+  {
+    "source": "连云港",
+    "target": "盐城"
+  },
+  {
+    "source": "连云港",
+    "target": "宿迁"
+  },
+  {
+    "source": "连云港",
+    "target": "日照"
+  },
+  {
+    "source": "连云港",
+    "target": "临沂"
+  },
+  {
+    "source": "淮安",
+    "target": "盐城"
+  },
+  {
+    "source": "淮安",
+    "target": "扬州"
+  },
+  {
+    "source": "淮安",
+    "target": "宿迁"
+  },
+  {
+    "source": "淮安",
+    "target": "滁州"
+  },
+  {
+    "source": "盐城",
+    "target": "扬州"
+  },
+  {
+    "source": "盐城",
+    "target": "泰州"
+  },
+  {
+    "source": "扬州",
+    "target": "镇江"
+  },
+  {
+    "source": "扬州",
+    "target": "泰州"
+  },
+  {
+    "source": "扬州",
+    "target": "滁州"
+  },
+  {
+    "source": "镇江",
+    "target": "泰州"
+  },
+  {
+    "source": "宿迁",
+    "target": "蚌埠"
+  },
+  {
+    "source": "宿迁",
+    "target": "滁州"
+  },
+  {
+    "source": "宿迁",
+    "target": "宿州"
+  },
+  {
+    "source": "杭州",
+    "target": "嘉兴"
+  },
+  {
+    "source": "杭州",
+    "target": "湖州"
+  },
+  {
+    "source": "杭州",
+    "target": "绍兴"
+  },
+  {
+    "source": "杭州",
+    "target": "金华"
+  },
+  {
+    "source": "杭州",
+    "target": "衢州"
+  },
+  {
+    "source": "杭州",
+    "target": "黄山"
+  },
+  {
+    "source": "杭州",
+    "target": "宣城"
+  },
+  {
+    "source": "宁波",
+    "target": "嘉兴"
+  },
+  {
+    "source": "宁波",
+    "target": "绍兴"
+  },
+  {
+    "source": "宁波",
+    "target": "台州"
+  },
+  {
+    "source": "温州",
+    "target": "台州"
+  },
+  {
+    "source": "温州",
+    "target": "丽水"
+  },
+  {
+    "source": "温州",
+    "target": "宁德"
+  },
+  {
+    "source": "嘉兴",
+    "target": "湖州"
+  },
+  {
+    "source": "嘉兴",
+    "target": "绍兴"
+  },
+  {
+    "source": "湖州",
+    "target": "宣城"
+  },
+  {
+    "source": "绍兴",
+    "target": "金华"
+  },
+  {
+    "source": "绍兴",
+    "target": "台州"
+  },
+  {
+    "source": "金华",
+    "target": "衢州"
+  },
+  {
+    "source": "金华",
+    "target": "台州"
+  },
+  {
+    "source": "金华",
+    "target": "丽水"
+  },
+  {
+    "source": "衢州",
+    "target": "丽水"
+  },
+  {
+    "source": "衢州",
+    "target": "黄山"
+  },
+  {
+    "source": "衢州",
+    "target": "南平"
+  },
+  {
+    "source": "衢州",
+    "target": "上饶"
+  },
+  {
+    "source": "台州",
+    "target": "丽水"
+  },
+  {
+    "source": "丽水",
+    "target": "南平"
+  },
+  {
+    "source": "丽水",
+    "target": "宁德"
+  },
+  {
+    "source": "合肥",
+    "target": "芜湖"
+  },
+  {
+    "source": "合肥",
+    "target": "淮南"
+  },
+  {
+    "source": "合肥",
+    "target": "马鞍山"
+  },
+  {
+    "source": "合肥",
+    "target": "铜陵"
+  },
+  {
+    "source": "合肥",
+    "target": "安庆"
+  },
+  {
+    "source": "合肥",
+    "target": "滁州"
+  },
+  {
+    "source": "合肥",
+    "target": "六安"
+  },
+  {
+    "source": "芜湖",
+    "target": "马鞍山"
+  },
+  {
+    "source": "芜湖",
+    "target": "铜陵"
+  },
+  {
+    "source": "芜湖",
+    "target": "池州"
+  },
+  {
+    "source": "芜湖",
+    "target": "宣城"
+  },
+  {
+    "source": "蚌埠",
+    "target": "淮南"
+  },
+  {
+    "source": "蚌埠",
+    "target": "淮北"
+  },
+  {
+    "source": "蚌埠",
+    "target": "滁州"
+  },
+  {
+    "source": "蚌埠",
+    "target": "宿州"
+  },
+  {
+    "source": "蚌埠",
+    "target": "亳州"
+  },
+  {
+    "source": "淮南",
+    "target": "滁州"
+  },
+  {
+    "source": "淮南",
+    "target": "阜阳"
+  },
+  {
+    "source": "淮南",
+    "target": "六安"
+  },
+  {
+    "source": "淮南",
+    "target": "亳州"
+  },
+  {
+    "source": "马鞍山",
+    "target": "滁州"
+  },
+  {
+    "source": "马鞍山",
+    "target": "宣城"
+  },
+  {
+    "source": "淮北",
+    "target": "宿州"
+  },
+  {
+    "source": "淮北",
+    "target": "亳州"
+  },
+  {
+    "source": "淮北",
+    "target": "商丘"
+  },
+  {
+    "source": "铜陵",
+    "target": "安庆"
+  },
+  {
+    "source": "铜陵",
+    "target": "池州"
+  },
+  {
+    "source": "安庆",
+    "target": "六安"
+  },
+  {
+    "source": "安庆",
+    "target": "池州"
+  },
+  {
+    "source": "安庆",
+    "target": "九江"
+  },
+  {
+    "source": "安庆",
+    "target": "黄冈"
+  },
+  {
+    "source": "黄山",
+    "target": "池州"
+  },
+  {
+    "source": "黄山",
+    "target": "宣城"
+  },
+  {
+    "source": "黄山",
+    "target": "景德镇"
+  },
+  {
+    "source": "黄山",
+    "target": "上饶"
+  },
+  {
+    "source": "阜阳",
+    "target": "六安"
+  },
+  {
+    "source": "阜阳",
+    "target": "亳州"
+  },
+  {
+    "source": "阜阳",
+    "target": "信阳"
+  },
+  {
+    "source": "阜阳",
+    "target": "周口"
+  },
+  {
+    "source": "阜阳",
+    "target": "驻马店"
+  },
+  {
+    "source": "宿州",
+    "target": "菏泽"
+  },
+  {
+    "source": "宿州",
+    "target": "商丘"
+  },
+  {
+    "source": "六安",
+    "target": "信阳"
+  },
+  {
+    "source": "六安",
+    "target": "黄冈"
+  },
+  {
+    "source": "亳州",
+    "target": "商丘"
+  },
+  {
+    "source": "亳州",
+    "target": "周口"
+  },
+  {
+    "source": "池州",
+    "target": "宣城"
+  },
+  {
+    "source": "池州",
+    "target": "景德镇"
+  },
+  {
+    "source": "池州",
+    "target": "九江"
+  },
+  {
+    "source": "池州",
+    "target": "上饶"
+  },
+  {
+    "source": "福州",
+    "target": "莆田"
+  },
+  {
+    "source": "福州",
+    "target": "三明"
+  },
+  {
+    "source": "福州",
+    "target": "泉州"
+  },
+  {
+    "source": "福州",
+    "target": "南平"
+  },
+  {
+    "source": "福州",
+    "target": "宁德"
+  },
+  {
+    "source": "厦门",
+    "target": "泉州"
+  },
+  {
+    "source": "厦门",
+    "target": "漳州"
+  },
+  {
+    "source": "莆田",
+    "target": "泉州"
+  },
+  {
+    "source": "三明",
+    "target": "泉州"
+  },
+  {
+    "source": "三明",
+    "target": "南平"
+  },
+  {
+    "source": "三明",
+    "target": "龙岩"
+  },
+  {
+    "source": "三明",
+    "target": "赣州"
+  },
+  {
+    "source": "三明",
+    "target": "抚州"
+  },
+  {
+    "source": "泉州",
+    "target": "漳州"
+  },
+  {
+    "source": "泉州",
+    "target": "龙岩"
+  },
+  {
+    "source": "漳州",
+    "target": "龙岩"
+  },
+  {
+    "source": "漳州",
+    "target": "梅州"
+  },
+  {
+    "source": "漳州",
+    "target": "潮州"
+  },
+  {
+    "source": "南平",
+    "target": "宁德"
+  },
+  {
+    "source": "南平",
+    "target": "鹰潭"
+  },
+  {
+    "source": "南平",
+    "target": "抚州"
+  },
+  {
+    "source": "南平",
+    "target": "上饶"
+  },
+  {
+    "source": "龙岩",
+    "target": "赣州"
+  },
+  {
+    "source": "龙岩",
+    "target": "梅州"
+  },
+  {
+    "source": "南昌",
+    "target": "九江"
+  },
+  {
+    "source": "南昌",
+    "target": "宜春"
+  },
+  {
+    "source": "南昌",
+    "target": "抚州"
+  },
+  {
+    "source": "南昌",
+    "target": "上饶"
+  },
+  {
+    "source": "景德镇",
+    "target": "上饶"
+  },
+  {
+    "source": "萍乡",
+    "target": "吉安"
+  },
+  {
+    "source": "萍乡",
+    "target": "宜春"
+  },
+  {
+    "source": "萍乡",
+    "target": "长沙"
+  },
+  {
+    "source": "萍乡",
+    "target": "株洲"
+  },
+  {
+    "source": "九江",
+    "target": "宜春"
+  },
+  {
+    "source": "九江",
+    "target": "上饶"
+  },
+  {
+    "source": "九江",
+    "target": "黄石"
+  },
+  {
+    "source": "九江",
+    "target": "黄冈"
+  },
+  {
+    "source": "九江",
+    "target": "咸宁"
+  },
+  {
+    "source": "九江",
+    "target": "岳阳"
+  },
+  {
+    "source": "新余",
+    "target": "吉安"
+  },
+  {
+    "source": "新余",
+    "target": "宜春"
+  },
+  {
+    "source": "鹰潭",
+    "target": "抚州"
+  },
+  {
+    "source": "鹰潭",
+    "target": "上饶"
+  },
+  {
+    "source": "赣州",
+    "target": "吉安"
+  },
+  {
+    "source": "赣州",
+    "target": "抚州"
+  },
+  {
+    "source": "赣州",
+    "target": "郴州"
+  },
+  {
+    "source": "赣州",
+    "target": "韶关"
+  },
+  {
+    "source": "赣州",
+    "target": "梅州"
+  },
+  {
+    "source": "赣州",
+    "target": "河源"
+  },
+  {
+    "source": "吉安",
+    "target": "宜春"
+  },
+  {
+    "source": "吉安",
+    "target": "抚州"
+  },
+  {
+    "source": "吉安",
+    "target": "株洲"
+  },
+  {
+    "source": "吉安",
+    "target": "郴州"
+  },
+  {
+    "source": "宜春",
+    "target": "抚州"
+  },
+  {
+    "source": "宜春",
+    "target": "长沙"
+  },
+  {
+    "source": "宜春",
+    "target": "岳阳"
+  },
+  {
+    "source": "抚州",
+    "target": "上饶"
+  },
+  {
+    "source": "济南",
+    "target": "淄博"
+  },
+  {
+    "source": "济南",
+    "target": "泰安"
+  },
+  {
+    "source": "济南",
+    "target": "德州"
+  },
+  {
+    "source": "济南",
+    "target": "聊城"
+  },
+  {
+    "source": "济南",
+    "target": "滨州"
+  },
+  {
+    "source": "青岛",
+    "target": "烟台"
+  },
+  {
+    "source": "青岛",
+    "target": "潍坊"
+  },
+  {
+    "source": "青岛",
+    "target": "日照"
+  },
+  {
+    "source": "淄博",
+    "target": "东营"
+  },
+  {
+    "source": "淄博",
+    "target": "潍坊"
+  },
+  {
+    "source": "淄博",
+    "target": "泰安"
+  },
+  {
+    "source": "淄博",
+    "target": "临沂"
+  },
+  {
+    "source": "淄博",
+    "target": "滨州"
+  },
+  {
+    "source": "枣庄",
+    "target": "济宁"
+  },
+  {
+    "source": "枣庄",
+    "target": "临沂"
+  },
+  {
+    "source": "东营",
+    "target": "潍坊"
+  },
+  {
+    "source": "东营",
+    "target": "滨州"
+  },
+  {
+    "source": "烟台",
+    "target": "潍坊"
+  },
+  {
+    "source": "烟台",
+    "target": "威海"
+  },
+  {
+    "source": "潍坊",
+    "target": "日照"
+  },
+  {
+    "source": "潍坊",
+    "target": "临沂"
+  },
+  {
+    "source": "济宁",
+    "target": "泰安"
+  },
+  {
+    "source": "济宁",
+    "target": "临沂"
+  },
+  {
+    "source": "济宁",
+    "target": "菏泽"
+  },
+  {
+    "source": "济宁",
+    "target": "濮阳"
+  },
+  {
+    "source": "泰安",
+    "target": "临沂"
+  },
+  {
+    "source": "泰安",
+    "target": "聊城"
+  },
+  {
+    "source": "泰安",
+    "target": "濮阳"
+  },
+  {
+    "source": "日照",
+    "target": "临沂"
+  },
+  {
+    "source": "德州",
+    "target": "聊城"
+  },
+  {
+    "source": "德州",
+    "target": "滨州"
+  },
+  {
+    "source": "聊城",
+    "target": "濮阳"
+  },
+  {
+    "source": "菏泽",
+    "target": "开封"
+  },
+  {
+    "source": "菏泽",
+    "target": "新乡"
+  },
+  {
+    "source": "菏泽",
+    "target": "濮阳"
+  },
+  {
+    "source": "菏泽",
+    "target": "商丘"
+  },
+  {
+    "source": "郑州",
+    "target": "开封"
+  },
+  {
+    "source": "郑州",
+    "target": "洛阳"
+  },
+  {
+    "source": "郑州",
+    "target": "平顶山"
+  },
+  {
+    "source": "郑州",
+    "target": "新乡"
+  },
+  {
+    "source": "郑州",
+    "target": "焦作"
+  },
+  {
+    "source": "郑州",
+    "target": "许昌"
+  },
+  {
+    "source": "开封",
+    "target": "新乡"
+  },
+  {
+    "source": "开封",
+    "target": "许昌"
+  },
+  {
+    "source": "开封",
+    "target": "商丘"
+  },
+  {
+    "source": "开封",
+    "target": "周口"
+  },
+  {
+    "source": "洛阳",
+    "target": "平顶山"
+  },
+  {
+    "source": "洛阳",
+    "target": "焦作"
+  },
+  {
+    "source": "洛阳",
+    "target": "三门峡"
+  },
+  {
+    "source": "洛阳",
+    "target": "南阳"
+  },
+  {
+    "source": "洛阳",
+    "target": "济源"
+  },
+  {
+    "source": "平顶山",
+    "target": "许昌"
+  },
+  {
+    "source": "平顶山",
+    "target": "漯河"
+  },
+  {
+    "source": "平顶山",
+    "target": "南阳"
+  },
+  {
+    "source": "平顶山",
+    "target": "驻马店"
+  },
+  {
+    "source": "安阳",
+    "target": "鹤壁"
+  },
+  {
+    "source": "安阳",
+    "target": "新乡"
+  },
+  {
+    "source": "安阳",
+    "target": "濮阳"
+  },
+  {
+    "source": "鹤壁",
+    "target": "新乡"
+  },
+  {
+    "source": "新乡",
+    "target": "焦作"
+  },
+  {
+    "source": "新乡",
+    "target": "濮阳"
+  },
+  {
+    "source": "焦作",
+    "target": "济源"
+  },
+  {
+    "source": "许昌",
+    "target": "漯河"
+  },
+  {
+    "source": "许昌",
+    "target": "周口"
+  },
+  {
+    "source": "漯河",
+    "target": "周口"
+  },
+  {
+    "source": "漯河",
+    "target": "驻马店"
+  },
+  {
+    "source": "三门峡",
+    "target": "南阳"
+  },
+  {
+    "source": "三门峡",
+    "target": "渭南"
+  },
+  {
+    "source": "三门峡",
+    "target": "商洛"
+  },
+  {
+    "source": "南阳",
+    "target": "信阳"
+  },
+  {
+    "source": "南阳",
+    "target": "驻马店"
+  },
+  {
+    "source": "南阳",
+    "target": "十堰"
+  },
+  {
+    "source": "南阳",
+    "target": "襄阳"
+  },
+  {
+    "source": "南阳",
+    "target": "随州"
+  },
+  {
+    "source": "南阳",
+    "target": "商洛"
+  },
+  {
+    "source": "商丘",
+    "target": "周口"
+  },
+  {
+    "source": "信阳",
+    "target": "驻马店"
+  },
+  {
+    "source": "信阳",
+    "target": "孝感"
+  },
+  {
+    "source": "信阳",
+    "target": "黄冈"
+  },
+  {
+    "source": "信阳",
+    "target": "随州"
+  },
+  {
+    "source": "周口",
+    "target": "驻马店"
+  },
+  {
+    "source": "武汉",
+    "target": "黄石"
+  },
+  {
+    "source": "武汉",
+    "target": "鄂州"
+  },
+  {
+    "source": "武汉",
+    "target": "孝感"
+  },
+  {
+    "source": "武汉",
+    "target": "荆州"
+  },
+  {
+    "source": "武汉",
+    "target": "黄冈"
+  },
+  {
+    "source": "武汉",
+    "target": "咸宁"
+  },
+  {
+    "source": "武汉",
+    "target": "仙桃"
+  },
+  {
+    "source": "黄石",
+    "target": "鄂州"
+  },
+  {
+    "source": "黄石",
+    "target": "黄冈"
+  },
+  {
+    "source": "黄石",
+    "target": "咸宁"
+  },
+  {
+    "source": "十堰",
+    "target": "襄阳"
+  },
+  {
+    "source": "十堰",
+    "target": "神农架林区"
+  },
+  {
+    "source": "十堰",
+    "target": "重庆郊县"
+  },
+  {
+    "source": "十堰",
+    "target": "安康"
+  },
+  {
+    "source": "十堰",
+    "target": "商洛"
+  },
+  {
+    "source": "宜昌",
+    "target": "襄阳"
+  },
+  {
+    "source": "宜昌",
+    "target": "荆门"
+  },
+  {
+    "source": "宜昌",
+    "target": "荆州"
+  },
+  {
+    "source": "宜昌",
+    "target": "恩施土家族苗族自治州"
+  },
+  {
+    "source": "宜昌",
+    "target": "神农架林区"
+  },
+  {
+    "source": "宜昌",
+    "target": "常德"
+  },
+  {
+    "source": "襄阳",
+    "target": "荆门"
+  },
+  {
+    "source": "襄阳",
+    "target": "随州"
+  },
+  {
+    "source": "襄阳",
+    "target": "神农架林区"
+  },
+  {
+    "source": "鄂州",
+    "target": "黄冈"
+  },
+  {
+    "source": "荆门",
+    "target": "孝感"
+  },
+  {
+    "source": "荆门",
+    "target": "荆州"
+  },
+  {
+    "source": "荆门",
+    "target": "随州"
+  },
+  {
+    "source": "荆门",
+    "target": "潜江"
+  },
+  {
+    "source": "荆门",
+    "target": "天门"
+  },
+  {
+    "source": "孝感",
+    "target": "黄冈"
+  },
+  {
+    "source": "孝感",
+    "target": "随州"
+  },
+  {
+    "source": "孝感",
+    "target": "仙桃"
+  },
+  {
+    "source": "孝感",
+    "target": "天门"
+  },
+  {
+    "source": "荆州",
+    "target": "咸宁"
+  },
+  {
+    "source": "荆州",
+    "target": "仙桃"
+  },
+  {
+    "source": "荆州",
+    "target": "潜江"
+  },
+  {
+    "source": "荆州",
+    "target": "岳阳"
+  },
+  {
+    "source": "荆州",
+    "target": "常德"
+  },
+  {
+    "source": "荆州",
+    "target": "益阳"
+  },
+  {
+    "source": "咸宁",
+    "target": "岳阳"
+  },
+  {
+    "source": "恩施土家族苗族自治州",
+    "target": "神农架林区"
+  },
+  {
+    "source": "恩施土家族苗族自治州",
+    "target": "常德"
+  },
+  {
+    "source": "恩施土家族苗族自治州",
+    "target": "张家界"
+  },
+  {
+    "source": "恩施土家族苗族自治州",
+    "target": "湘西土家族苗族自治州"
+  },
+  {
+    "source": "恩施土家族苗族自治州",
+    "target": "重庆"
+  },
+  {
+    "source": "恩施土家族苗族自治州",
+    "target": "重庆郊县"
+  },
+  {
+    "source": "仙桃",
+    "target": "潜江"
+  },
+  {
+    "source": "仙桃",
+    "target": "天门"
+  },
+  {
+    "source": "潜江",
+    "target": "天门"
+  },
+  {
+    "source": "神农架林区",
+    "target": "重庆郊县"
+  },
+  {
+    "source": "长沙",
+    "target": "株洲"
+  },
+  {
+    "source": "长沙",
+    "target": "湘潭"
+  },
+  {
+    "source": "长沙",
+    "target": "岳阳"
+  },
+  {
+    "source": "长沙",
+    "target": "益阳"
+  },
+  {
+    "source": "长沙",
+    "target": "娄底"
+  },
+  {
+    "source": "株洲",
+    "target": "湘潭"
+  },
+  {
+    "source": "株洲",
+    "target": "衡阳"
+  },
+  {
+    "source": "株洲",
+    "target": "郴州"
+  },
+  {
+    "source": "湘潭",
+    "target": "衡阳"
+  },
+  {
+    "source": "湘潭",
+    "target": "娄底"
+  },
+  {
+    "source": "衡阳",
+    "target": "邵阳"
+  },
+  {
+    "source": "衡阳",
+    "target": "郴州"
+  },
+  {
+    "source": "衡阳",
+    "target": "永州"
+  },
+  {
+    "source": "衡阳",
+    "target": "娄底"
+  },
+  {
+    "source": "邵阳",
+    "target": "永州"
+  },
+  {
+    "source": "邵阳",
+    "target": "怀化"
+  },
+  {
+    "source": "邵阳",
+    "target": "娄底"
+  },
+  {
+    "source": "邵阳",
+    "target": "桂林"
+  },
+  {
+    "source": "岳阳",
+    "target": "益阳"
+  },
+  {
+    "source": "常德",
+    "target": "张家界"
+  },
+  {
+    "source": "常德",
+    "target": "益阳"
+  },
+  {
+    "source": "常德",
+    "target": "怀化"
+  },
+  {
+    "source": "张家界",
+    "target": "怀化"
+  },
+  {
+    "source": "张家界",
+    "target": "湘西土家族苗族自治州"
+  },
+  {
+    "source": "益阳",
+    "target": "怀化"
+  },
+  {
+    "source": "益阳",
+    "target": "娄底"
+  },
+  {
+    "source": "郴州",
+    "target": "永州"
+  },
+  {
+    "source": "郴州",
+    "target": "韶关"
+  },
+  {
+    "source": "郴州",
+    "target": "清远"
+  },
+  {
+    "source": "永州",
+    "target": "清远"
+  },
+  {
+    "source": "永州",
+    "target": "桂林"
+  },
+  {
+    "source": "永州",
+    "target": "贺州"
+  },
+  {
+    "source": "怀化",
+    "target": "娄底"
+  },
+  {
+    "source": "怀化",
+    "target": "湘西土家族苗族自治州"
+  },
+  {
+    "source": "怀化",
+    "target": "柳州"
+  },
+  {
+    "source": "怀化",
+    "target": "桂林"
+  },
+  {
+    "source": "怀化",
+    "target": "铜仁"
+  },
+  {
+    "source": "怀化",
+    "target": "黔东南苗族侗族自治州"
+  },
+  {
+    "source": "湘西土家族苗族自治州",
+    "target": "重庆郊县"
+  },
+  {
+    "source": "湘西土家族苗族自治州",
+    "target": "铜仁"
+  },
+  {
+    "source": "广州",
+    "target": "韶关"
+  },
+  {
+    "source": "广州",
+    "target": "佛山"
+  },
+  {
+    "source": "广州",
+    "target": "惠州"
+  },
+  {
+    "source": "广州",
+    "target": "清远"
+  },
+  {
+    "source": "广州",
+    "target": "东莞"
+  },
+  {
+    "source": "广州",
+    "target": "中山"
+  },
+  {
+    "source": "韶关",
+    "target": "惠州"
+  },
+  {
+    "source": "韶关",
+    "target": "河源"
+  },
+  {
+    "source": "韶关",
+    "target": "清远"
+  },
+  {
+    "source": "深圳",
+    "target": "惠州"
+  },
+  {
+    "source": "深圳",
+    "target": "东莞"
+  },
+  {
+    "source": "深圳",
+    "target": "香港特别行政区"
+  },
+  {
+    "source": "珠海",
+    "target": "江门"
+  },
+  {
+    "source": "珠海",
+    "target": "中山"
+  },
+  {
+    "source": "珠海",
+    "target": "澳门特别行政区"
+  },
+  {
+    "source": "汕头",
+    "target": "潮州"
+  },
+  {
+    "source": "汕头",
+    "target": "揭阳"
+  },
+  {
+    "source": "佛山",
+    "target": "江门"
+  },
+  {
+    "source": "佛山",
+    "target": "肇庆"
+  },
+  {
+    "source": "佛山",
+    "target": "清远"
+  },
+  {
+    "source": "佛山",
+    "target": "中山"
+  },
+  {
+    "source": "佛山",
+    "target": "云浮"
+  },
+  {
+    "source": "江门",
+    "target": "阳江"
+  },
+  {
+    "source": "江门",
+    "target": "中山"
+  },
+  {
+    "source": "江门",
+    "target": "云浮"
+  },
+  {
+    "source": "湛江",
+    "target": "茂名"
+  },
+  {
+    "source": "湛江",
+    "target": "北海"
+  },
+  {
+    "source": "湛江",
+    "target": "玉林"
+  },
+  {
+    "source": "茂名",
+    "target": "阳江"
+  },
+  {
+    "source": "茂名",
+    "target": "云浮"
+  },
+  {
+    "source": "茂名",
+    "target": "梧州"
+  },
+  {
+    "source": "茂名",
+    "target": "玉林"
+  },
+  {
+    "source": "肇庆",
+    "target": "清远"
+  },
+  {
+    "source": "肇庆",
+    "target": "云浮"
+  },
+  {
+    "source": "肇庆",
+    "target": "梧州"
+  },
+  {
+    "source": "肇庆",
+    "target": "贺州"
+  },
+  {
+    "source": "惠州",
+    "target": "汕尾"
+  },
+  {
+    "source": "惠州",
+    "target": "河源"
+  },
+  {
+    "source": "惠州",
+    "target": "东莞"
+  },
+  {
+    "source": "梅州",
+    "target": "汕尾"
+  },
+  {
+    "source": "梅州",
+    "target": "河源"
+  },
+  {
+    "source": "梅州",
+    "target": "潮州"
+  },
+  {
+    "source": "梅州",
+    "target": "揭阳"
+  },
+  {
+    "source": "汕尾",
+    "target": "河源"
+  },
+  {
+    "source": "汕尾",
+    "target": "揭阳"
+  },
+  {
+    "source": "阳江",
+    "target": "云浮"
+  },
+  {
+    "source": "清远",
+    "target": "贺州"
+  },
+  {
+    "source": "潮州",
+    "target": "揭阳"
+  },
+  {
+    "source": "云浮",
+    "target": "梧州"
+  },
+  {
+    "source": "南宁",
+    "target": "防城港"
+  },
+  {
+    "source": "南宁",
+    "target": "钦州"
+  },
+  {
+    "source": "南宁",
+    "target": "贵港"
+  },
+  {
+    "source": "南宁",
+    "target": "百色"
+  },
+  {
+    "source": "南宁",
+    "target": "河池"
+  },
+  {
+    "source": "南宁",
+    "target": "来宾"
+  },
+  {
+    "source": "南宁",
+    "target": "崇左"
+  },
+  {
+    "source": "柳州",
+    "target": "桂林"
+  },
+  {
+    "source": "柳州",
+    "target": "河池"
+  },
+  {
+    "source": "柳州",
+    "target": "来宾"
+  },
+  {
+    "source": "柳州",
+    "target": "黔东南苗族侗族自治州"
+  },
+  {
+    "source": "桂林",
+    "target": "梧州"
+  },
+  {
+    "source": "桂林",
+    "target": "贺州"
+  },
+  {
+    "source": "桂林",
+    "target": "来宾"
+  },
+  {
+    "source": "梧州",
+    "target": "贵港"
+  },
+  {
+    "source": "梧州",
+    "target": "玉林"
+  },
+  {
+    "source": "梧州",
+    "target": "贺州"
+  },
+  {
+    "source": "梧州",
+    "target": "来宾"
+  },
+  {
+    "source": "北海",
+    "target": "钦州"
+  },
+  {
+    "source": "北海",
+    "target": "玉林"
+  },
+  {
+    "source": "防城港",
+    "target": "钦州"
+  },
+  {
+    "source": "防城港",
+    "target": "崇左"
+  },
+  {
+    "source": "钦州",
+    "target": "贵港"
+  },
+  {
+    "source": "钦州",
+    "target": "玉林"
+  },
+  {
+    "source": "贵港",
+    "target": "玉林"
+  },
+  {
+    "source": "贵港",
+    "target": "来宾"
+  },
+  {
+    "source": "百色",
+    "target": "河池"
+  },
+  {
+    "source": "百色",
+    "target": "崇左"
+  },
+  {
+    "source": "百色",
+    "target": "黔西南布依族苗族自治州"
+  },
+  {
+    "source": "百色",
+    "target": "黔南布依族苗族自治州"
+  },
+  {
+    "source": "百色",
+    "target": "曲靖"
+  },
+  {
+    "source": "百色",
+    "target": "文山壮族苗族自治州"
+  },
+  {
+    "source": "河池",
+    "target": "来宾"
+  },
+  {
+    "source": "河池",
+    "target": "黔东南苗族侗族自治州"
+  },
+  {
+    "source": "河池",
+    "target": "黔南布依族苗族自治州"
+  },
+  {
+    "source": "海口",
+    "target": "文昌"
+  },
+  {
+    "source": "海口",
+    "target": "定安县"
+  },
+  {
+    "source": "海口",
+    "target": "澄迈县"
+  },
+  {
+    "source": "三亚",
+    "target": "乐东黎族自治县"
+  },
+  {
+    "source": "三亚",
+    "target": "陵水黎族自治县"
+  },
+  {
+    "source": "三亚",
+    "target": "保亭黎族苗族自治县"
+  },
+  {
+    "source": "儋州",
+    "target": "澄迈县"
+  },
+  {
+    "source": "儋州",
+    "target": "临高县"
+  },
+  {
+    "source": "儋州",
+    "target": "白沙黎族自治县"
+  },
+  {
+    "source": "儋州",
+    "target": "昌江黎族自治县"
+  },
+  {
+    "source": "儋州",
+    "target": "琼中黎族苗族自治县"
+  },
+  {
+    "source": "五指山",
+    "target": "白沙黎族自治县"
+  },
+  {
+    "source": "五指山",
+    "target": "乐东黎族自治县"
+  },
+  {
+    "source": "五指山",
+    "target": "保亭黎族苗族自治县"
+  },
+  {
+    "source": "五指山",
+    "target": "琼中黎族苗族自治县"
+  },
+  {
+    "source": "琼海",
+    "target": "文昌"
+  },
+  {
+    "source": "琼海",
+    "target": "万宁"
+  },
+  {
+    "source": "琼海",
+    "target": "定安县"
+  },
+  {
+    "source": "琼海",
+    "target": "屯昌县"
+  },
+  {
+    "source": "琼海",
+    "target": "琼中黎族苗族自治县"
+  },
+  {
+    "source": "文昌",
+    "target": "定安县"
+  },
+  {
+    "source": "万宁",
+    "target": "陵水黎族自治县"
+  },
+  {
+    "source": "万宁",
+    "target": "琼中黎族苗族自治县"
+  },
+  {
+    "source": "东方",
+    "target": "昌江黎族自治县"
+  },
+  {
+    "source": "东方",
+    "target": "乐东黎族自治县"
+  },
+  {
+    "source": "定安县",
+    "target": "屯昌县"
+  },
+  {
+    "source": "定安县",
+    "target": "澄迈县"
+  },
+  {
+    "source": "屯昌县",
+    "target": "澄迈县"
+  },
+  {
+    "source": "屯昌县",
+    "target": "琼中黎族苗族自治县"
+  },
+  {
+    "source": "澄迈县",
+    "target": "临高县"
+  },
+  {
+    "source": "澄迈县",
+    "target": "琼中黎族苗族自治县"
+  },
+  {
+    "source": "白沙黎族自治县",
+    "target": "昌江黎族自治县"
+  },
+  {
+    "source": "白沙黎族自治县",
+    "target": "乐东黎族自治县"
+  },
+  {
+    "source": "白沙黎族自治县",
+    "target": "琼中黎族苗族自治县"
+  },
+  {
+    "source": "昌江黎族自治县",
+    "target": "乐东黎族自治县"
+  },
+  {
+    "source": "乐东黎族自治县",
+    "target": "保亭黎族苗族自治县"
+  },
+  {
+    "source": "陵水黎族自治县",
+    "target": "保亭黎族苗族自治县"
+  },
+  {
+    "source": "陵水黎族自治县",
+    "target": "琼中黎族苗族自治县"
+  },
+  {
+    "source": "保亭黎族苗族自治县",
+    "target": "琼中黎族苗族自治县"
+  },
+  {
+    "source": "重庆",
+    "target": "重庆郊县"
+  },
+  {
+    "source": "重庆",
+    "target": "泸州"
+  },
+  {
+    "source": "重庆",
+    "target": "遂宁"
+  },
+  {
+    "source": "重庆",
+    "target": "内江"
+  },
+  {
+    "source": "重庆",
+    "target": "广安"
+  },
+  {
+    "source": "重庆",
+    "target": "达州"
+  },
+  {
+    "source": "重庆",
+    "target": "资阳"
+  },
+  {
+    "source": "重庆",
+    "target": "遵义"
+  },
+  {
+    "source": "重庆郊县",
+    "target": "广安"
+  },
+  {
+    "source": "重庆郊县",
+    "target": "达州"
+  },
+  {
+    "source": "重庆郊县",
+    "target": "遵义"
+  },
+  {
+    "source": "重庆郊县",
+    "target": "铜仁"
+  },
+  {
+    "source": "重庆郊县",
+    "target": "安康"
+  },
+  {
+    "source": "成都",
+    "target": "德阳"
+  },
+  {
+    "source": "成都",
+    "target": "眉山"
+  },
+  {
+    "source": "成都",
+    "target": "雅安"
+  },
+  {
+    "source": "成都",
+    "target": "资阳"
+  },
+  {
+    "source": "成都",
+    "target": "阿坝藏族羌族自治州"
+  },
+  {
+    "source": "自贡",
+    "target": "泸州"
+  },
+  {
+    "source": "自贡",
+    "target": "内江"
+  },
+  {
+    "source": "自贡",
+    "target": "乐山"
+  },
+  {
+    "source": "自贡",
+    "target": "眉山"
+  },
+  {
+    "source": "自贡",
+    "target": "宜宾"
+  },
+  {
+    "source": "攀枝花",
+    "target": "凉山彝族自治州"
+  },
+  {
+    "source": "攀枝花",
+    "target": "丽江"
+  },
+  {
+    "source": "攀枝花",
+    "target": "楚雄彝族自治州"
+  },
+  {
+    "source": "泸州",
+    "target": "内江"
+  },
+  {
+    "source": "泸州",
+    "target": "宜宾"
+  },
+  {
+    "source": "泸州",
+    "target": "遵义"
+  },
+  {
+    "source": "泸州",
+    "target": "毕节"
+  },
+  {
+    "source": "泸州",
+    "target": "昭通"
+  },
+  {
+    "source": "德阳",
+    "target": "绵阳"
+  },
+  {
+    "source": "德阳",
+    "target": "遂宁"
+  },
+  {
+    "source": "德阳",
+    "target": "资阳"
+  },
+  {
+    "source": "德阳",
+    "target": "阿坝藏族羌族自治州"
+  },
+  {
+    "source": "绵阳",
+    "target": "广元"
+  },
+  {
+    "source": "绵阳",
+    "target": "遂宁"
+  },
+  {
+    "source": "绵阳",
+    "target": "南充"
+  },
+  {
+    "source": "绵阳",
+    "target": "阿坝藏族羌族自治州"
+  },
+  {
+    "source": "绵阳",
+    "target": "陇南"
+  },
+  {
+    "source": "广元",
+    "target": "南充"
+  },
+  {
+    "source": "广元",
+    "target": "巴中"
+  },
+  {
+    "source": "广元",
+    "target": "汉中"
+  },
+  {
+    "source": "广元",
+    "target": "陇南"
+  },
+  {
+    "source": "遂宁",
+    "target": "南充"
+  },
+  {
+    "source": "遂宁",
+    "target": "广安"
+  },
+  {
+    "source": "遂宁",
+    "target": "资阳"
+  },
+  {
+    "source": "内江",
+    "target": "眉山"
+  },
+  {
+    "source": "内江",
+    "target": "资阳"
+  },
+  {
+    "source": "乐山",
+    "target": "眉山"
+  },
+  {
+    "source": "乐山",
+    "target": "宜宾"
+  },
+  {
+    "source": "乐山",
+    "target": "雅安"
+  },
+  {
+    "source": "乐山",
+    "target": "凉山彝族自治州"
+  },
+  {
+    "source": "南充",
+    "target": "广安"
+  },
+  {
+    "source": "南充",
+    "target": "达州"
+  },
+  {
+    "source": "南充",
+    "target": "巴中"
+  },
+  {
+    "source": "眉山",
+    "target": "雅安"
+  },
+  {
+    "source": "眉山",
+    "target": "资阳"
+  },
+  {
+    "source": "宜宾",
+    "target": "凉山彝族自治州"
+  },
+  {
+    "source": "宜宾",
+    "target": "昭通"
+  },
+  {
+    "source": "广安",
+    "target": "达州"
+  },
+  {
+    "source": "达州",
+    "target": "巴中"
+  },
+  {
+    "source": "达州",
+    "target": "汉中"
+  },
+  {
+    "source": "达州",
+    "target": "安康"
+  },
+  {
+    "source": "雅安",
+    "target": "阿坝藏族羌族自治州"
+  },
+  {
+    "source": "雅安",
+    "target": "甘孜藏族自治州"
+  },
+  {
+    "source": "雅安",
+    "target": "凉山彝族自治州"
+  },
+  {
+    "source": "巴中",
+    "target": "汉中"
+  },
+  {
+    "source": "阿坝藏族羌族自治州",
+    "target": "甘孜藏族自治州"
+  },
+  {
+    "source": "阿坝藏族羌族自治州",
+    "target": "陇南"
+  },
+  {
+    "source": "阿坝藏族羌族自治州",
+    "target": "甘南藏族自治州"
+  },
+  {
+    "source": "阿坝藏族羌族自治州",
+    "target": "果洛藏族自治州"
+  },
+  {
+    "source": "甘孜藏族自治州",
+    "target": "凉山彝族自治州"
+  },
+  {
+    "source": "甘孜藏族自治州",
+    "target": "迪庆藏族自治州"
+  },
+  {
+    "source": "甘孜藏族自治州",
+    "target": "昌都"
+  },
+  {
+    "source": "甘孜藏族自治州",
+    "target": "果洛藏族自治州"
+  },
+  {
+    "source": "甘孜藏族自治州",
+    "target": "玉树藏族自治州"
+  },
+  {
+    "source": "凉山彝族自治州",
+    "target": "昆明"
+  },
+  {
+    "source": "凉山彝族自治州",
+    "target": "昭通"
+  },
+  {
+    "source": "凉山彝族自治州",
+    "target": "丽江"
+  },
+  {
+    "source": "凉山彝族自治州",
+    "target": "楚雄彝族自治州"
+  },
+  {
+    "source": "凉山彝族自治州",
+    "target": "迪庆藏族自治州"
+  },
+  {
+    "source": "贵阳",
+    "target": "遵义"
+  },
+  {
+    "source": "贵阳",
+    "target": "安顺"
+  },
+  {
+    "source": "贵阳",
+    "target": "毕节"
+  },
+  {
+    "source": "贵阳",
+    "target": "黔南布依族苗族自治州"
+  },
+  {
+    "source": "六盘水",
+    "target": "安顺"
+  },
+  {
+    "source": "六盘水",
+    "target": "毕节"
+  },
+  {
+    "source": "六盘水",
+    "target": "黔西南布依族苗族自治州"
+  },
+  {
+    "source": "六盘水",
+    "target": "曲靖"
+  },
+  {
+    "source": "遵义",
+    "target": "毕节"
+  },
+  {
+    "source": "遵义",
+    "target": "铜仁"
+  },
+  {
+    "source": "遵义",
+    "target": "黔东南苗族侗族自治州"
+  },
+  {
+    "source": "遵义",
+    "target": "黔南布依族苗族自治州"
+  },
+  {
+    "source": "安顺",
+    "target": "毕节"
+  },
+  {
+    "source": "安顺",
+    "target": "黔西南布依族苗族自治州"
+  },
+  {
+    "source": "安顺",
+    "target": "黔南布依族苗族自治州"
+  },
+  {
+    "source": "毕节",
+    "target": "曲靖"
+  },
+  {
+    "source": "毕节",
+    "target": "昭通"
+  },
+  {
+    "source": "铜仁",
+    "target": "黔东南苗族侗族自治州"
+  },
+  {
+    "source": "黔西南布依族苗族自治州",
+    "target": "黔南布依族苗族自治州"
+  },
+  {
+    "source": "黔西南布依族苗族自治州",
+    "target": "曲靖"
+  },
+  {
+    "source": "黔东南苗族侗族自治州",
+    "target": "黔南布依族苗族自治州"
+  },
+  {
+    "source": "昆明",
+    "target": "曲靖"
+  },
+  {
+    "source": "昆明",
+    "target": "玉溪"
+  },
+  {
+    "source": "昆明",
+    "target": "昭通"
+  },
+  {
+    "source": "昆明",
+    "target": "楚雄彝族自治州"
+  },
+  {
+    "source": "昆明",
+    "target": "红河哈尼族彝族自治州"
+  },
+  {
+    "source": "曲靖",
+    "target": "昭通"
+  },
+  {
+    "source": "曲靖",
+    "target": "红河哈尼族彝族自治州"
+  },
+  {
+    "source": "曲靖",
+    "target": "文山壮族苗族自治州"
+  },
+  {
+    "source": "玉溪",
+    "target": "普洱"
+  },
+  {
+    "source": "玉溪",
+    "target": "楚雄彝族自治州"
+  },
+  {
+    "source": "玉溪",
+    "target": "红河哈尼族彝族自治州"
+  },
+  {
+    "source": "保山",
+    "target": "临沧"
+  },
+  {
+    "source": "保山",
+    "target": "大理白族自治州"
+  },
+  {
+    "source": "保山",
+    "target": "德宏傣族景颇族自治州"
+  },
+  {
+    "source": "保山",
+    "target": "怒江傈僳族自治州"
+  },
+  {
+    "source": "丽江",
+    "target": "楚雄彝族自治州"
+  },
+  {
+    "source": "丽江",
+    "target": "大理白族自治州"
+  },
+  {
+    "source": "丽江",
+    "target": "怒江傈僳族自治州"
+  },
+  {
+    "source": "丽江",
+    "target": "迪庆藏族自治州"
+  },
+  {
+    "source": "普洱",
+    "target": "临沧"
+  },
+  {
+    "source": "普洱",
+    "target": "楚雄彝族自治州"
+  },
+  {
+    "source": "普洱",
+    "target": "红河哈尼族彝族自治州"
+  },
+  {
+    "source": "普洱",
+    "target": "西双版纳傣族自治州"
+  },
+  {
+    "source": "普洱",
+    "target": "大理白族自治州"
+  },
+  {
+    "source": "临沧",
+    "target": "大理白族自治州"
+  },
+  {
+    "source": "楚雄彝族自治州",
+    "target": "大理白族自治州"
+  },
+  {
+    "source": "红河哈尼族彝族自治州",
+    "target": "文山壮族苗族自治州"
+  },
+  {
+    "source": "大理白族自治州",
+    "target": "怒江傈僳族自治州"
+  },
+  {
+    "source": "怒江傈僳族自治州",
+    "target": "迪庆藏族自治州"
+  },
+  {
+    "source": "怒江傈僳族自治州",
+    "target": "林芝"
+  },
+  {
+    "source": "迪庆藏族自治州",
+    "target": "昌都"
+  },
+  {
+    "source": "迪庆藏族自治州",
+    "target": "林芝"
+  },
+  {
+    "source": "拉萨",
+    "target": "日喀则"
+  },
+  {
+    "source": "拉萨",
+    "target": "林芝"
+  },
+  {
+    "source": "拉萨",
+    "target": "山南"
+  },
+  {
+    "source": "拉萨",
+    "target": "那曲"
+  },
+  {
+    "source": "日喀则",
+    "target": "山南"
+  },
+  {
+    "source": "日喀则",
+    "target": "那曲"
+  },
+  {
+    "source": "日喀则",
+    "target": "阿里地区"
+  },
+  {
+    "source": "昌都",
+    "target": "林芝"
+  },
+  {
+    "source": "昌都",
+    "target": "那曲"
+  },
+  {
+    "source": "昌都",
+    "target": "玉树藏族自治州"
+  },
+  {
+    "source": "林芝",
+    "target": "山南"
+  },
+  {
+    "source": "林芝",
+    "target": "那曲"
+  },
+  {
+    "source": "那曲",
+    "target": "阿里地区"
+  },
+  {
+    "source": "那曲",
+    "target": "玉树藏族自治州"
+  },
+  {
+    "source": "那曲",
+    "target": "海西蒙古族藏族自治州"
+  },
+  {
+    "source": "那曲",
+    "target": "巴音郭楞蒙古自治州"
+  },
+  {
+    "source": "阿里地区",
+    "target": "巴音郭楞蒙古自治州"
+  },
+  {
+    "source": "阿里地区",
+    "target": "和田地区"
+  },
+  {
+    "source": "西安",
+    "target": "宝鸡"
+  },
+  {
+    "source": "西安",
+    "target": "咸阳"
+  },
+  {
+    "source": "西安",
+    "target": "渭南"
+  },
+  {
+    "source": "西安",
+    "target": "汉中"
+  },
+  {
+    "source": "西安",
+    "target": "安康"
+  },
+  {
+    "source": "西安",
+    "target": "商洛"
+  },
+  {
+    "source": "铜川",
+    "target": "咸阳"
+  },
+  {
+    "source": "铜川",
+    "target": "渭南"
+  },
+  {
+    "source": "铜川",
+    "target": "延安"
+  },
+  {
+    "source": "宝鸡",
+    "target": "咸阳"
+  },
+  {
+    "source": "宝鸡",
+    "target": "汉中"
+  },
+  {
+    "source": "宝鸡",
+    "target": "天水"
+  },
+  {
+    "source": "宝鸡",
+    "target": "平凉"
+  },
+  {
+    "source": "宝鸡",
+    "target": "陇南"
+  },
+  {
+    "source": "咸阳",
+    "target": "渭南"
+  },
+  {
+    "source": "咸阳",
+    "target": "延安"
+  },
+  {
+    "source": "咸阳",
+    "target": "平凉"
+  },
+  {
+    "source": "咸阳",
+    "target": "庆阳"
+  },
+  {
+    "source": "渭南",
+    "target": "延安"
+  },
+  {
+    "source": "渭南",
+    "target": "商洛"
+  },
+  {
+    "source": "延安",
+    "target": "榆林"
+  },
+  {
+    "source": "延安",
+    "target": "庆阳"
+  },
+  {
+    "source": "汉中",
+    "target": "安康"
+  },
+  {
+    "source": "汉中",
+    "target": "陇南"
+  },
+  {
+    "source": "榆林",
+    "target": "庆阳"
+  },
+  {
+    "source": "榆林",
+    "target": "吴忠"
+  },
+  {
+    "source": "安康",
+    "target": "商洛"
+  },
+  {
+    "source": "兰州",
+    "target": "白银"
+  },
+  {
+    "source": "兰州",
+    "target": "武威"
+  },
+  {
+    "source": "兰州",
+    "target": "定西"
+  },
+  {
+    "source": "兰州",
+    "target": "临夏回族自治州"
+  },
+  {
+    "source": "兰州",
+    "target": "海东"
+  },
+  {
+    "source": "嘉峪关",
+    "target": "张掖"
+  },
+  {
+    "source": "嘉峪关",
+    "target": "酒泉"
+  },
+  {
+    "source": "金昌",
+    "target": "武威"
+  },
+  {
+    "source": "金昌",
+    "target": "张掖"
+  },
+  {
+    "source": "白银",
+    "target": "武威"
+  },
+  {
+    "source": "白银",
+    "target": "平凉"
+  },
+  {
+    "source": "白银",
+    "target": "定西"
+  },
+  {
+    "source": "白银",
+    "target": "固原"
+  },
+  {
+    "source": "白银",
+    "target": "中卫"
+  },
+  {
+    "source": "天水",
+    "target": "平凉"
+  },
+  {
+    "source": "天水",
+    "target": "定西"
+  },
+  {
+    "source": "天水",
+    "target": "陇南"
+  },
+  {
+    "source": "武威",
+    "target": "张掖"
+  },
+  {
+    "source": "武威",
+    "target": "海东"
+  },
+  {
+    "source": "武威",
+    "target": "海北藏族自治州"
+  },
+  {
+    "source": "张掖",
+    "target": "酒泉"
+  },
+  {
+    "source": "张掖",
+    "target": "海北藏族自治州"
+  },
+  {
+    "source": "张掖",
+    "target": "海西蒙古族藏族自治州"
+  },
+  {
+    "source": "平凉",
+    "target": "庆阳"
+  },
+  {
+    "source": "平凉",
+    "target": "定西"
+  },
+  {
+    "source": "平凉",
+    "target": "固原"
+  },
+  {
+    "source": "酒泉",
+    "target": "海西蒙古族藏族自治州"
+  },
+  {
+    "source": "酒泉",
+    "target": "哈密"
+  },
+  {
+    "source": "酒泉",
+    "target": "巴音郭楞蒙古自治州"
+  },
+  {
+    "source": "庆阳",
+    "target": "吴忠"
+  },
+  {
+    "source": "庆阳",
+    "target": "固原"
+  },
+  {
+    "source": "庆阳",
+    "target": "中卫"
+  },
+  {
+    "source": "定西",
+    "target": "陇南"
+  },
+  {
+    "source": "定西",
+    "target": "临夏回族自治州"
+  },
+  {
+    "source": "定西",
+    "target": "甘南藏族自治州"
+  },
+  {
+    "source": "陇南",
+    "target": "甘南藏族自治州"
+  },
+  {
+    "source": "临夏回族自治州",
+    "target": "甘南藏族自治州"
+  },
+  {
+    "source": "临夏回族自治州",
+    "target": "海东"
+  },
+  {
+    "source": "甘南藏族自治州",
+    "target": "海东"
+  },
+  {
+    "source": "甘南藏族自治州",
+    "target": "黄南藏族自治州"
+  },
+  {
+    "source": "甘南藏族自治州",
+    "target": "果洛藏族自治州"
+  },
+  {
+    "source": "西宁",
+    "target": "海东"
+  },
+  {
+    "source": "西宁",
+    "target": "海北藏族自治州"
+  },
+  {
+    "source": "西宁",
+    "target": "海南藏族自治州"
+  },
+  {
+    "source": "海东",
+    "target": "海北藏族自治州"
+  },
+  {
+    "source": "海东",
+    "target": "黄南藏族自治州"
+  },
+  {
+    "source": "海东",
+    "target": "海南藏族自治州"
+  },
+  {
+    "source": "海北藏族自治州",
+    "target": "海南藏族自治州"
+  },
+  {
+    "source": "海北藏族自治州",
+    "target": "海西蒙古族藏族自治州"
+  },
+  {
+    "source": "黄南藏族自治州",
+    "target": "海南藏族自治州"
+  },
+  {
+    "source": "黄南藏族自治州",
+    "target": "果洛藏族自治州"
+  },
+  {
+    "source": "海南藏族自治州",
+    "target": "果洛藏族自治州"
+  },
+  {
+    "source": "海南藏族自治州",
+    "target": "海西蒙古族藏族自治州"
+  },
+  {
+    "source": "果洛藏族自治州",
+    "target": "玉树藏族自治州"
+  },
+  {
+    "source": "果洛藏族自治州",
+    "target": "海西蒙古族藏族自治州"
+  },
+  {
+    "source": "玉树藏族自治州",
+    "target": "海西蒙古族藏族自治州"
+  },
+  {
+    "source": "玉树藏族自治州",
+    "target": "巴音郭楞蒙古自治州"
+  },
+  {
+    "source": "海西蒙古族藏族自治州",
+    "target": "巴音郭楞蒙古自治州"
+  },
+  {
+    "source": "银川",
+    "target": "石嘴山"
+  },
+  {
+    "source": "银川",
+    "target": "吴忠"
+  },
+  {
+    "source": "吴忠",
+    "target": "中卫"
+  },
+  {
+    "source": "固原",
+    "target": "中卫"
+  },
+  {
+    "source": "乌鲁木齐",
+    "target": "吐鲁番"
+  },
+  {
+    "source": "乌鲁木齐",
+    "target": "昌吉回族自治州"
+  },
+  {
+    "source": "乌鲁木齐",
+    "target": "巴音郭楞蒙古自治州"
+  },
+  {
+    "source": "乌鲁木齐",
+    "target": "阿勒泰地区"
+  },
+  {
+    "source": "乌鲁木齐",
+    "target": "五家渠"
+  },
+  {
+    "source": "克拉玛依",
+    "target": "伊犁哈萨克自治州"
+  },
+  {
+    "source": "克拉玛依",
+    "target": "塔城地区"
+  },
+  {
+    "source": "克拉玛依",
+    "target": "胡杨河"
+  },
+  {
+    "source": "吐鲁番",
+    "target": "哈密"
+  },
+  {
+    "source": "吐鲁番",
+    "target": "昌吉回族自治州"
+  },
+  {
+    "source": "吐鲁番",
+    "target": "巴音郭楞蒙古自治州"
+  },
+  {
+    "source": "哈密",
+    "target": "昌吉回族自治州"
+  },
+  {
+    "source": "哈密",
+    "target": "巴音郭楞蒙古自治州"
+  },
+  {
+    "source": "哈密",
+    "target": "新星"
+  },
+  {
+    "source": "昌吉回族自治州",
+    "target": "巴音郭楞蒙古自治州"
+  },
+  {
+    "source": "昌吉回族自治州",
+    "target": "塔城地区"
+  },
+  {
+    "source": "昌吉回族自治州",
+    "target": "阿勒泰地区"
+  },
+  {
+    "source": "昌吉回族自治州",
+    "target": "石河子"
+  },
+  {
+    "source": "昌吉回族自治州",
+    "target": "五家渠"
+  },
+  {
+    "source": "博尔塔拉蒙古自治州",
+    "target": "伊犁哈萨克自治州"
+  },
+  {
+    "source": "博尔塔拉蒙古自治州",
+    "target": "塔城地区"
+  },
+  {
+    "source": "博尔塔拉蒙古自治州",
+    "target": "双河"
+  },
+  {
+    "source": "巴音郭楞蒙古自治州",
+    "target": "阿克苏地区"
+  },
+  {
+    "source": "巴音郭楞蒙古自治州",
+    "target": "和田地区"
+  },
+  {
+    "source": "巴音郭楞蒙古自治州",
+    "target": "伊犁哈萨克自治州"
+  },
+  {
+    "source": "巴音郭楞蒙古自治州",
+    "target": "塔城地区"
+  },
+  {
+    "source": "巴音郭楞蒙古自治州",
+    "target": "铁门关"
+  },
+  {
+    "source": "阿克苏地区",
+    "target": "克孜勒苏柯尔克孜自治州"
+  },
+  {
+    "source": "阿克苏地区",
+    "target": "喀什地区"
+  },
+  {
+    "source": "阿克苏地区",
+    "target": "和田地区"
+  },
+  {
+    "source": "阿克苏地区",
+    "target": "伊犁哈萨克自治州"
+  },
+  {
+    "source": "阿克苏地区",
+    "target": "阿拉尔"
+  },
+  {
+    "source": "克孜勒苏柯尔克孜自治州",
+    "target": "喀什地区"
+  },
+  {
+    "source": "喀什地区",
+    "target": "和田地区"
+  },
+  {
+    "source": "喀什地区",
+    "target": "图木舒克"
+  },
+  {
+    "source": "和田地区",
+    "target": "昆玉"
+  },
+  {
+    "source": "伊犁哈萨克自治州",
+    "target": "塔城地区"
+  },
+  {
+    "source": "伊犁哈萨克自治州",
+    "target": "可克达拉"
+  },
+  {
+    "source": "伊犁哈萨克自治州",
+    "target": "胡杨河"
+  },
+  {
+    "source": "塔城地区",
+    "target": "阿勒泰地区"
+  },
+  {
+    "source": "塔城地区",
+    "target": "石河子"
+  },
+  {
+    "source": "塔城地区",
+    "target": "胡杨河"
+  },
+  {
+    "source": "阿勒泰地区",
+    "target": "北屯"
+  }
+]
