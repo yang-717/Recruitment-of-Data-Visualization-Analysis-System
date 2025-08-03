@@ -7,8 +7,13 @@
 
 # 编译输出
 /target/
+*/target/
 /dist/
 /node_modules/
+*/node_modules/
+
+# 排除Maven仓库文件
+springboot/~/.m2/
 
 # 日志文件
 *.log
@@ -21,6 +26,12 @@ Thumbs.db
 application-local.yml
 application-local.properties
 
-# 编译缓存
-/springboot/target/
-/vue/node_modules/
+# 但保留所有源代码文件
+!*.java
+!*.xml
+!*.yml
+!*.js
+!*.vue
+!*.css
+!*.html
+!*.md
