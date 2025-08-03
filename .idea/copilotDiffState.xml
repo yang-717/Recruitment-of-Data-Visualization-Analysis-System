@@ -3,6 +3,15 @@
   <component name="CopilotDiffPersistence">
     <option name="pendingDiffs">
       <map>
+        <entry key="$PROJECT_DIR$/.gitignore">
+          <value>
+            <PendingDiffInfo>
+              <option name="filePath" value="$PROJECT_DIR$/.gitignore" />
+              <option name="originalContent" value="&#10;" />
+              <option name="updatedContent" value="# 忽略 Maven 构建目录&#10;springboot/target/&#10;springboot/!.mvn/wrapper/maven-wrapper.jar&#10;springboot/!**/src/main/**/target/&#10;springboot/!**/src/test/**/target/&#10;springboot/~/.m2/&#10;&#10;# 忽略 Vue 构建和依赖目录&#10;vue/node_modules/&#10;vue/dist/&#10;vue/.DS_Store&#10;vue/npm-debug.log*&#10;vue/yarn-debug.log*&#10;vue/yarn-error.log*&#10;&#10;# 忽略 IDE 和编辑器文件&#10;.idea/&#10;.vscode/&#10;*.suo&#10;*.ntvs*&#10;*.njsproj&#10;*.sln&#10;*.sw?&#10;.DS_Store&#10;&#10;# 忽略日志文件&#10;*.log&#10;&#10;# 系统文件&#10;.DS_Store&#10;Thumbs.db" />
+            </PendingDiffInfo>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/springboot/src/main/java/com/example/controller/FileController.java">
           <value>
             <PendingDiffInfo>

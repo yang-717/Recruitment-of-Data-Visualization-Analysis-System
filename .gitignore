@@ -1,31 +1,26 @@
-# 忽略 Maven 构建目录
-springboot/target/
-springboot/!.mvn/wrapper/maven-wrapper.jar
-springboot/!**/src/main/**/target/
-springboot/!**/src/test/**/target/
-springboot/~/.m2/
-
-# 忽略 Vue 构建和依赖目录
-vue/node_modules/
-vue/dist/
-vue/.DS_Store
-vue/npm-debug.log*
-vue/yarn-debug.log*
-vue/yarn-error.log*
-
-# 忽略 IDE 和编辑器文件
+# IDE配置
 .idea/
+*.iml
+*.iws
+*.ipr
 .vscode/
-*.suo
-*.ntvs*
-*.njsproj
-*.sln
-*.sw?
-.DS_Store
 
-# 忽略日志文件
+# 编译输出
+/target/
+/dist/
+/node_modules/
+
+# 日志文件
 *.log
 
-# 系统文件
+# 操作系统文件
 .DS_Store
 Thumbs.db
+
+# 本地配置文件
+application-local.yml
+application-local.properties
+
+# 编译缓存
+/springboot/target/
+/vue/node_modules/
